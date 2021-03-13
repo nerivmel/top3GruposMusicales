@@ -1,0 +1,113 @@
+.fondoPG
+{
+    width: 100%;
+    height: 120vh;
+    background-image: url(./imagenes/fondopag.jpg);
+}
+.pres{
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    padding: 60px;
+    margin-top: 30px;
+    box-shadow: 0px 1px 10px rgb(131, 4, 99);
+    background-color: burlywood;
+
+}
+
+header{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 20px;
+    font-weight: 100;
+    font: large;
+    color: burlywood;
+    background-color: rgba(84, 13, 119, 0.933);
+    border-radius: 20%;
+}
+.pres img{
+    width: 260px;
+    height: 130px;
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    
+}
+.pres p{
+    text-align: justify;
+    font-size: 20px;
+    font-weight: 100;
+    margin-top: 20px;
+    color: black;
+    font-style: normal;
+    
+
+}
+
+h2{
+    text-align: left;
+    color: burlywood;
+    background-color: rgba(84, 13, 119, 0.933);
+    border-radius: 20px;
+}
+
+table{
+    margin-top: 20px;
+    caption-side: bottom;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+
+}
+th{
+    background-color: black;
+    color: blanchedalmond;
+}
+
+td{
+    background-color: burlywood;
+    color: black;
+}
+
+caption{
+    padding-top: 20px;
+    font-style: italic;
+    color: floralwhite;
+}
+td,th{
+    border:2px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+button{
+    font-size: larger;
+    background-color: darkmagenta;
+    color: darksalmon;
+    border-radius: 20%;
+    size: 30px;
+    text-align: center;
+    margin-left: 600px ;
+   
+    
+}
+
+button :hover{
+    background-color:darksalmon;
+    color:  darkmagenta;
+}
+.integrantes{
+        background-color:  darkmagenta;
+        color: burlywood;  
+        text-decoration: none;
+        font-size: 30px;
+}
+a{
+    color: ghostwhite;
+    font-size: 20px;
+    margin-left: 10px;
+    
+
+}
